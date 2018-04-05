@@ -10,7 +10,6 @@ Project Outcome:
 * Learnt and utilised UML (unified modelling language) block diagram for the development process.
 * Worked closely with tutor and colleagues, asked for feedback and utilised them to improve the game.
 
----
 ## Setting up the Slick Library
 
 Here I will briefly go over how to setup the Slick Library used for game development in Eclipse. It uses LWJGL for graphics and inputs.
